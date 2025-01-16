@@ -29,7 +29,6 @@ comments :
 # Internal nav
 nav:
   - GALLERY: "https://carsonmbrown.github.io/portfolio/gallery/"  
-  - JOURNAL: "https://carsonmbrown.github.io/portfolio/journal/"
   - ABOUT: "https://carsonmbrown.github.io/portfolio/about/"
 
 # All translation keys
